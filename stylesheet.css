@@ -8,5 +8,17 @@
 
 .synergize{
 	background-color: yellowgreen;
+	height: 50vh;
 }
 
+@media only screen and (max-width: 768px){
+	.drama{
+		font-size: 3em;
+	}
+	.engage{
+		height: 40vh;
+	}
+	.synergize{
+		height: 40vh;
+	}
+}
