@@ -21,10 +21,20 @@
 	.synergize{
 		height: 40vh;
 	}
+	h5{
+		font-size: 1.2em;
+		font-weight: lighter;
+	}
+	#mic-content{
+		margin-bottom: 100px;
+	}
+	#mic{
+		margin-top: 100px;
+	}
 }
 
-.class{
-	height: 50vh;
+.best{
+	height: 90vh;
 }
 
 #mic{
