@@ -8,7 +8,7 @@
 
 .synergize{
 	background-color: yellowgreen;
-	height: 50vh;
+	height: 40vh;
 }
 
 @media only screen and (max-width: 768px){
@@ -21,4 +21,16 @@
 	.synergize{
 		height: 40vh;
 	}
+}
+
+.class{
+	height: 50vh;
+}
+
+#mic{
+	border-radius: 50%;
+}
+
+#phone{
+	border-radius: 50%;
 }
