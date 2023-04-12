@@ -53,3 +53,25 @@
 	width: 100%;
 	height: 100%;
 }
+
+.pen{
+	background-image: url("./images/pen.jpeg");	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	height: 20vh;
+}
+.concert{
+	background-image: url("./images/concert.jpeg");	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	height: 20vh;
+}
+.pencil{
+	background-image: url("./images/pencil.jpeg");	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	height: 20vh;
+}
