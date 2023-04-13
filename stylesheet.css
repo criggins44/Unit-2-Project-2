@@ -26,10 +26,17 @@
 		font-weight: lighter;
 	}
 	#mic-content{
+		margin-top: 2em;
 		margin-bottom: 100px;
 	}
+
 	#mic{
 		margin-top: 100px;
+		width: 80%;
+	}
+	#phone{
+		width: 100%;
+		margin-top: 2em;
 	}
 
 }
@@ -55,11 +62,14 @@
 }
 
 .pen{
-	background-image: url("./images/pen.jpeg");	
+	background-image: url("./images/pen2.jpeg");	
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100% 100%;
 	height: 20vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .concert{
 	background-image: url("./images/concert.jpeg");	
@@ -67,6 +77,9 @@
 	background-position: center;
 	background-size: 100% 100%;
 	height: 20vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .pencil{
 	background-image: url("./images/pencil.jpeg");	
@@ -74,4 +87,7 @@
 	background-position: center;
 	background-size: 100% 100%;
 	height: 20vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
