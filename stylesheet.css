@@ -70,6 +70,10 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	transition: 0.7s;
+}
+.pen:hover{
+	transform: scale(1.2);
 }
 .concert{
 	background-image: url("./images/concert.jpeg");	
@@ -80,6 +84,10 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	transition: 0.7s;
+}
+.concert:hover{
+	transform: scale(1.2);
 }
 .pencil{
 	background-image: url("./images/pencil.jpeg");	
@@ -90,8 +98,11 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	transition: 0.7s;
 }
-
+.pencil:hover{
+	transform: scale(1.2);
+}
 .contact{
 	background-color: yellowgreen;
 }
